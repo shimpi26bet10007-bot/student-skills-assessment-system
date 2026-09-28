@@ -1,0 +1,29 @@
+=======================================================
+           STUDENT SKILL ASSESSMENT REPORT
+=======================================================
+
+STUDENT DETAILS
+-------------------------------------------------------
+Student Name     : Shimpi Gupta
+Registration No. : 26BET10007
+Email            : shimpi@example.com
+Course           : BTECH Education Technology
+
+SKILL ASSESSMENT
+-------------------------------------------------------
+Programming              : 9.0/10
+Communication            : 8.0/10
+Problem Solving          : 9.0/10
+Technical/Subject        : 8.0/10
+
+PERFORMANCE ANALYSIS
+-------------------------------------------------------
+Total Marks      : 34.0/40
+Percentage       : 85.00%
+Performance      : Excellent
+Strongest Skill  : Programming
+Skill to Improve : Communication
+
+=======================================================
+Thank you for using Student Skill Assessment System!
+=======================================================

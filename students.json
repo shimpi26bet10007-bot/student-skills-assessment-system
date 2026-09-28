@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Shimpi Gupta",
+        "student_id": "26BET10007",
+        "course": "BTECH Education Technology",
+        "percentage": 90.0,
+        "performance": "Excellent"
+    },
+    {
+        "name": "Shimpi Gupta",
+        "student_id": "26BET10007",
+        "course": "BTECH Education Technology",
+        "percentage": 87.5,
+        "performance": "Excellent"
+    },
+    {
+        "name": "Shimpi Gupta",
+        "student_id": "26BET10007",
+        "course": "BTECH Education Technology",
+        "percentage": 85.0,
+        "performance": "Excellent"
+    }
+]
